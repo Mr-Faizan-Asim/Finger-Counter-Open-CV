@@ -1,5 +1,5 @@
 # Finger-Counter-Open-CV
-<h1>Creating a finger counter function in OpenCV involves:<h1/>
+<h3>Creating a finger counter function in OpenCV involves:</h3>
 <p>
 Preprocessing: Convert the image to grayscale, apply Gaussian blur, and use thresholding to create a binary image.
 Contour Detection: Find contours in the binary image using findContours.
